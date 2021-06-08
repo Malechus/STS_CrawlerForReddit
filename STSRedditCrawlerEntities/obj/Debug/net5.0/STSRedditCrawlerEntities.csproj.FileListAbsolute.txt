@@ -1,0 +1,16 @@
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\bin\Debug\net5.0\STSRedditCrawlerEntities.dll.config
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\bin\Debug\net5.0\STSRedditCrawlerEntities.deps.json
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\bin\Debug\net5.0\STSRedditCrawlerEntities.runtimeconfig.json
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\bin\Debug\net5.0\STSRedditCrawlerEntities.runtimeconfig.dev.json
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\bin\Debug\net5.0\STSRedditCrawlerEntities.dll
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\bin\Debug\net5.0\ref\STSRedditCrawlerEntities.dll
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\bin\Debug\net5.0\STSRedditCrawlerEntities.pdb
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\STSRedditCrawlerEntities.csprojAssemblyReference.cache
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\STSRedditCrawlerEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\STSRedditCrawlerEntities.AssemblyInfoInputs.cache
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\STSRedditCrawlerEntities.AssemblyInfo.cs
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\STSRedditCrawlerEntities.csproj.CoreCompileInputs.cache
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\STSRedditCrawlerEntities.dll
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\ref\STSRedditCrawlerEntities.dll
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\STSRedditCrawlerEntities.pdb
+C:\Users\garrett\source\repos\STSRedditCrawler\STSRedditCrawlerEntities\obj\Debug\net5.0\STSRedditCrawlerEntities.genruntimeconfig.cache

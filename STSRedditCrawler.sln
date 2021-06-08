@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STSRedditCrawlerConsole", "STSRedditCrawlerConsole\STSRedditCrawlerConsole.csproj", "{A38668DF-07F9-49B1-913C-B2E5E05E2408}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F4CC9C91-2AD5-4B8F-A03F-43AFD156ABB3} = {F4CC9C91-2AD5-4B8F-A03F-43AFD156ABB3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STSRedditCrawlerEntities", "STSRedditCrawlerEntities\STSRedditCrawlerEntities.csproj", "{F4CC9C91-2AD5-4B8F-A03F-43AFD156ABB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38668DF-07F9-49B1-913C-B2E5E05E2408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38668DF-07F9-49B1-913C-B2E5E05E2408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38668DF-07F9-49B1-913C-B2E5E05E2408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38668DF-07F9-49B1-913C-B2E5E05E2408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CC9C91-2AD5-4B8F-A03F-43AFD156ABB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CC9C91-2AD5-4B8F-A03F-43AFD156ABB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CC9C91-2AD5-4B8F-A03F-43AFD156ABB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CC9C91-2AD5-4B8F-A03F-43AFD156ABB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709AB0AD-DED9-42A0-8128-93407802E083}
+	EndGlobalSection
+EndGlobal
